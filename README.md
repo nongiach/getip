@@ -3,7 +3,7 @@ getip
 
 outil qui permet d'avoir l'ip d'un utilisateur sur le réseaux Epitech
 
-Usage : getip patern [user | ip | promo | state]
+Usage : getip patern [user | ip | promo | state | all]
 
 ##Install:
 ```
