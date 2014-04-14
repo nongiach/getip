@@ -26,7 +26,7 @@ cas ou plusieur ip:
 10.18.208.3 
 10.18.207.198
 
->getip devoil_g ip client
+shell$ getip devoil_g ip client
 10.18.207.251 bns-0.9.6 [ bNetSoul rocks ] 
 10.18.207.251 bns-0.9.6 [ bNetSoul rocks ] 
 10.18.208.3 none 
