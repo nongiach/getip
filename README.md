@@ -19,9 +19,13 @@ rm getip -rf
 
 ####cas ou plusieur ip:
 >shell$ getip devoil_g
+>
 >10.18.207.251 
+>
 >10.18.207.251 
+>
 >10.18.208.3 
+>
 >10.18.207.198
 >
 >shell$ getip devoil_g ip client
