@@ -35,7 +35,7 @@ cas ou plusieur ip:
 >getip 'devoil_g.*QNetSoul'
 10.18.207.198
 
-tout les users actif
+tout les users actif:
 
 >getip 'actif' user
 
