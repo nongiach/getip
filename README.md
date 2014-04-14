@@ -5,10 +5,12 @@ outil qui permet d'avoir l'ip d'un utilisateur sur le réseaux Epitech
 
 Usage : getip patern [user | ip | promo | state]
 
-Install:
+##Install:
+```
 git clone https://github.com/nongiach/getip
 sudo cp getip/getip /usr/bin
 rm getip -rf
+```
 
 ##exemple:
 ```
@@ -40,11 +42,16 @@ shell$ getip 'devoil_g.*QNetSoul'
 ####tout les users actif:
 ```
 shell$ getip 'actif' user
+kuoy_v 
+tasser_g 
+...
 ```
 
 ####promo 2017 et 2016:
 ```
 shell$ getip "_201[6-7]" user ip promo
+andriv_e 31.38.122.56 epitech_2017 
+lerus_l 10.41.175.114 epitech_2017
 ```
 
 
