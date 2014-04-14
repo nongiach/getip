@@ -52,6 +52,7 @@ tasser_g
 shell$ getip "_201[6-7]" user ip promo
 andriv_e 31.38.122.56 epitech_2017 
 lerus_l 10.41.175.114 epitech_2017
+...
 ```
 
 
