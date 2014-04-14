@@ -49,9 +49,10 @@ tasser_g
 
 ####promo 2017 et 2016:
 ```
-shell$ getip "_201[6-7]" user ip promo
-andriv_e 31.38.122.56 epitech_2017 
-lerus_l 10.41.175.114 epitech_2017
+shell$ getip "_201[6-7]" user ip promo state
+ourtie_l 83.152.95.83 epitech_2017 actif 
+tasser_g 10.41.178.118 epitech_2017 actif 
+fildie_a 10.15.194.169 epitech_2017 away
 ...
 ```
 
